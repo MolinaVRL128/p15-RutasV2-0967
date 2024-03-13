@@ -13,7 +13,17 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Rutas Diseño Version 2: FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Links de referencia, https://github.com/flutter-teacher/container-widget/blob/main/main.dart
+- https://stackoverflow.com/questions/66835173/how-can-i-change-the-background-color-of-elevated-button-in-flutter-from-functio
 - Join the discussion and conversation on https://flutlab.io/residents
+
+- a.21308051280967@cbtis128.edu.mx Reyna Leticia Molina Villela
+
+- ![image](https://github.com/MolinaVRL128/p15-RutasV2-0967/assets/143743724/f2ecd031-c380-4305-a9d9-efbf369bd448)
+- ![image](https://github.com/MolinaVRL128/p15-RutasV2-0967/assets/143743724/1ee24c10-6ea5-4166-b236-a835f5ebd945) ![image](https://github.com/MolinaVRL128/p15-RutasV2-0967/assets/143743724/79094a99-e0da-4ec3-9f58-4f44ee54cdc0)
+- ![image](https://github.com/MolinaVRL128/p15-RutasV2-0967/assets/143743724/9be64bf1-35e3-4143-877b-6e3d813392f5)
+
+
+

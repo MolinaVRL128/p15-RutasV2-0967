@@ -20,13 +20,28 @@ class PantallaInicial_0967 extends StatelessWidget {
               onPressed: () {
                 Navigator.pushNamed(context, "/Pantalla1_0967");
               },
+              style: ElevatedButton.styleFrom(
+                  primary: Color(0xff860f0f),
+                  textStyle: TextStyle(fontSize: 20)),
               child: Text("Mover a Pantalla1"),
             ),
             ElevatedButton(
               onPressed: () {
                 Navigator.pushNamed(context, "/Pantalla2_0967");
               },
+              style: ElevatedButton.styleFrom(
+                  primary: Color(0xffab2121),
+                  textStyle: TextStyle(fontSize: 20)),
               child: Text("Mover a Pantalla2"),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pushNamed(context, "/Pantalla3_0967");
+              },
+              style: ElevatedButton.styleFrom(
+                  primary: Color(0xffdc3737),
+                  textStyle: TextStyle(fontSize: 20)),
+              child: Text("Mover a Pantalla3"),
             )
           ], //Niños Widgets
         ),

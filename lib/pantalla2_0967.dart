@@ -11,25 +11,24 @@ class Pantalla2_0967 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Pantalla 2 Molina0967"),
-        backgroundColor: Colors.deepOrange,
+        backgroundColor: Color(0xff823503),
       ),
       body: Center(
-          child: Container(
-        color: Colors.deepOrange,
-        width: double.infinity,
-        height: 300,
-        child: Card(
-          color: Color(0xffff926c),
-          elevation: 10,
-          shape:
-              RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
-          margin: EdgeInsets.all(16),
+        child: Container(
+          color: Color(0xfffb7020),
+          padding: EdgeInsets.all(20),
+          constraints: BoxConstraints(
+            minHeight: 100,
+            minWidth: 200,
+            maxHeight: 300,
+            maxWidth: 300,
+          ),
           child: Text(
-            " Card Molina0967",
-            style: TextStyle(fontSize: 30, color: Colors.black),
+            'Reyna Molina 0967',
+            style: TextStyle(fontSize: 30, color: Colors.white),
           ),
         ),
-      )),
+      ),
     );
   } //Widget
 } //Fin Scafffold
